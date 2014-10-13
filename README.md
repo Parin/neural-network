@@ -20,8 +20,6 @@ Hidden layer learns new representation of the input and gives some insight into 
 training is complete. Following is the visualization of the hidden layer showing what each hidden unit learns
 after training the network
 
-![alt tag]()
-
-###Conclusion
+![alt tag](https://github.com/Parin/neural-network/blob/master/hidden.png)
 
 
